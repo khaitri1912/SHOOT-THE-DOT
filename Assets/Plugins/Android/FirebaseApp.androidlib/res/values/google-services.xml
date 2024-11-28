@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="firebase_database_url" translatable="false">https://shootthedot-514b7-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">219723372112</string>
+  <string name="google_storage_bucket" translatable="false">shootthedot-514b7.appspot.com</string>
+  <string name="project_id" translatable="false">shootthedot-514b7</string>
+  <string name="google_api_key" translatable="false">AIzaSyAkyBt5RvZuUNJCsS4I7XmX-0mxM7uhKEk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAkyBt5RvZuUNJCsS4I7XmX-0mxM7uhKEk</string>
+  <string name="google_app_id" translatable="false">1:219723372112:android:f53e6c3c835a4f77596355</string>
+</resources>

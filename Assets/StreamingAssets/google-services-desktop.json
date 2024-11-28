@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "219723372112",
+    "firebase_url": "https://shootthedot-514b7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shootthedot-514b7",
+    "storage_bucket": "shootthedot-514b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219723372112:android:f53e6c3c835a4f77596355",
+        "android_client_info": {
+          "package_name": "com.KaidenSoftware.shootthedot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkyBt5RvZuUNJCsS4I7XmX-0mxM7uhKEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
